@@ -1,0 +1,17 @@
+{
+  "attributes":[
+  {
+    "trait_type”:”color”,
+    "value”:”yellow”},
+{
+    "trait_type”:”creature”,
+    "value”:”minion”}
+    ],
+
+"name”:”Minion one”,
+
+"description”:”This is the first minion”,
+
+"image":"https://gateway.pinata.cloud/ipfs/Qmdaso6jSX4V8d5xm2LUf2hXpqGgWXJnnapP2phioxyiAf"
+  
+}
